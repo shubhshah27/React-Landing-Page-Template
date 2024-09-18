@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { Features } from "./components/features";
@@ -9,6 +10,8 @@ import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
+import { Blog } from "./components/blog";
+import { BlogDetails } from "./page/blogDetails"; // New component
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
 
@@ -24,18 +27,31 @@ const App = () => {
   }, []);
 
   return (
-    <div>
+    <Router>
       <Navigation />
-      <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
-      <About data={landingPageData.About} />
-      <Services data={landingPageData.Services} />
-      <Gallery data={landingPageData.Gallery} />
-      <Testimonials data={landingPageData.Testimonials} />
-      <Team data={landingPageData.Team} />
-      <Contact data={landingPageData.Contact} />
-    </div>
+      <Routes>
+        <Route
+          path="/"
+          element={
+            <>
+              <Header data={landingPageData.Header} />
+              <Features data={landingPageData.Features} />
+              <About data={landingPageData.About} />
+              <Services data={landingPageData.Services} />
+              <Gallery data={landingPageData.Gallery} />
+              <Testimonials data={landingPageData.Testimonials} />
+              <Team data={landingPageData.Team} />
+              <Blog data={landingPageData.Blog} />
+              <Contact data={landingPageData.Contact} />
+            </>
+          }
+        />
+        <Route path="/blog/:id" element={<BlogDetails />} />
+      </Routes>
+    </Router>
   );
 };
 
 export default App;
+
+

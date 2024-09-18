@@ -10,6 +10,7 @@
     "landingpage-react-template": "file:",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^6.26.2",
     "react-scripts": "^5.0.1",
     "smooth-scroll": "^16.1.3"
   },

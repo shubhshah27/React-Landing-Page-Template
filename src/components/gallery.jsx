@@ -6,10 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Our Recent Projects</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Explore our portfolio showcasing diverse projects that demonstrate our expertise in delivering innovative solutions. From web development to cloud services, our projects are designed to drive growth and success for our clients.
           </p>
         </div>
         <div className="row">

@@ -1,132 +1,114 @@
 {
   "Header": {
-    "title": "We are Solution Provider",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We provide Solutions",
+    "paragraph": "We specialize in offering custom solutions to businesses looking to grow and optimize their digital presence. From web development to cloud services, we ensure that our solutions are scalable, efficient, and tailored to your needs."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We are a team of dedicated professionals with expertise in various fields like web development, cloud services, and artificial intelligence. Our mission is to help businesses thrive by leveraging cutting-edge technology. We believe in providing innovative solutions that enhance productivity, reduce costs, and create long-term value for our clients.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expertise in advanced technologies",
+      "Scalable solutions for all business sizes",
+      "Custom development tailored to your needs",
+      "Proven track record of delivering results"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Comprehensive service offerings",
+      "Highly experienced team",
+      "Innovative and cost-effective solutions",
+      "Focused on long-term success"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "E-Commerce Platform",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Business Dashboard",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Mobile Application",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Cloud Infrastructure",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "AI-Driven Analytics",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
+    }
+  ],
+  "Blog": [
+    {
+      "title": "How Web Development Can Supercharge Your Business Growth",
+      "content": "In today’s digital age, web development is crucial for business success. Custom web development solutions help businesses attract and engage more customers by creating a seamless user experience. Optimizing website performance can lead to higher engagement rates and conversions. Learn about various strategies to enhance your online presence through effective web development techniques.",
+      "image": "img/blog/webdevelopment-image.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Leveraging Web Scraping for Competitive Business Insights",
+      "content": "Web scraping is a powerful tool for gathering competitive intelligence. By extracting data from competitors' websites, businesses can gain insights into market trends, pricing strategies, and customer feedback. This information can be used to make informed decisions and stay ahead in a competitive market. Discover how to effectively use web scraping for your business needs.",
+      "image": "img/blog/webscraping.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "How Cloud Services Are Transforming Modern Businesses",
+      "content": "Cloud computing is revolutionizing the way businesses operate. With cloud services, companies can scale their operations, reduce infrastructure costs, and improve security and disaster recovery. Explore the benefits of cloud computing and how it can help your business become more agile and cost-effective in today's fast-paced environment.",
+      "image": "img/blog/cloud-image.jpg"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-wordpress",
       "name": "Web Development",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Our custom web development services ensure that your website is designed to meet your business goals, offering a seamless user experience and robust backend functionality."
     },
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Web Scraping",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "We provide web scraping solutions that help businesses gather actionable data from competitors and market trends, enabling informed business decisions."
     },
     {
       "icon": "fa fa-cloud-download",
       "name": "Mobile Development",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Our mobile app development services are tailored to help businesses engage their customers on the go, with user-friendly interfaces and optimized performance."
     },
     {
       "icon": "fa fa-language",
-      "name": "Artifical Intelligence And Machine Learning",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Artificial Intelligence and Machine Learning",
+      "text": "Leverage AI and ML technologies to automate processes, enhance customer experience, and gain deeper insights from your data."
     },
     {
       "icon": "fa fa-plane",
       "name": "Desktop Development",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "We develop high-performance desktop applications that meet your business needs, providing robust functionality with easy-to-use interfaces."
     },
     {
       "icon": "fa fa-pie-chart",
       "name": "Cloud Services",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Our cloud services allow businesses to scale efficiently, reduce costs, and improve flexibility with a secure and reliable cloud infrastructure."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"The team provided exceptional service and transformed our online presence with their web development solutions. We saw a significant increase in customer engagement.\"",
+      "name": "Sarah Johnson"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Their web scraping solution helped us gain valuable insights into our competitors' strategies, giving us a competitive advantage in the market.\"",
+      "name": "Michael Davis"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Thanks to their cloud services, we were able to scale our operations seamlessly and reduce our infrastructure costs by 40%.\"",
+      "name": "Emily Clark"
     }
   ],
   "Team": [
@@ -152,33 +134,33 @@
     }
   ],
   "Contact": {
-    "address": "34 Shilpa Society, D-cabin, Sabarmati,Ahmedabad 380019 ",
+    "address": "34 Shilpa Society, D-cabin, Sabarmati, Ahmedabad 380019",
     "phone": "9428730335",
     "email": "shubh2001.contact@gmail.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://twitter.com",
+    "youtube": "https://www.youtube.com"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Customer Engagement",
+      "text": "Boost customer satisfaction and retention with responsive and personalized digital solutions tailored to their needs."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Brand Visibility",
+      "text": "Increase your brand’s visibility online through strategic digital marketing and innovative web development."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Collaborative Approach",
+      "text": "We work closely with your team to ensure that our solutions align perfectly with your business objectives."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Innovation and Creativity",
+      "text": "Our team is dedicated to bringing fresh, creative ideas to the table to help your business stand out in a crowded market."
     }
   ]
 }
